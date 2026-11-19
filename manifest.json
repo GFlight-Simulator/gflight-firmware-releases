@@ -1,0 +1,30 @@
+{
+  "devices": {
+    "PMDG_737_FMC": {
+      "env": "pmdg_boeing737_fmc_v2",
+      "file": "pmdg-boeing737-fmc-v2.0.1.bin",
+      "offset": "0x10000",
+      "sha256": "7d7f01ab791bc18b683437c2aa8f5e7e2de42fecf4c3a942e6b467d9e58ab95a",
+      "size": 293376,
+      "version": "2.0.1"
+    },
+    "PMDG_737_MCP": {
+      "env": "pmdg_boeing737_mcp_v2",
+      "file": "pmdg-boeing737-mcp-v2.0.1.bin",
+      "offset": "0x10000",
+      "sha256": "730149e6d52056660f7a87717971cb3776f65c2334d91fb6545ec98d6f8d0bbb",
+      "size": 314880,
+      "version": "2.0.1"
+    },
+    "PMDG_737_MCP_EFIS": {
+      "env": "pmdg_boeing737_mcp_v2",
+      "file": "pmdg-boeing737-mcp-v2.0.1.bin",
+      "offset": "0x10000",
+      "sha256": "730149e6d52056660f7a87717971cb3776f65c2334d91fb6545ec98d6f8d0bbb",
+      "size": 314880,
+      "version": "2.0.1"
+    }
+  },
+  "schema": 1,
+  "updated": "2026-11-19T05:57:56Z"
+}
